@@ -1,0 +1,55 @@
+body {
+    background-color: green;
+    color:black;
+    margin: 0 auto;
+    width:100%;
+}
+
+
+.card{
+    display: flex;
+    background-color: white;
+    position: absolute; 
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    width: 40vh;
+    height: 60vh;
+    padding:0px;
+    border-radius: 1vh;
+}
+
+.icono1{
+    padding:0px;
+    margin: 0px;
+    font-size: 12vh;
+    position: relative;
+    top:0%;
+    left: 5%;
+}
+
+.numero{
+    padding:0px;
+    margin: 0px;
+    align-self: center;    
+    font-size: 18vh;
+    position: relative;
+    top:-5%;
+    left: 0%;
+    
+   
+   
+}
+
+.icono2{
+    padding:0px;
+    margin: 0px;
+    font-size: 12vh;
+    position: relative;
+    top:-5%;
+    left: 75%;
+    
+    
+    
+    
+}
