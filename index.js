@@ -82,15 +82,8 @@ window.onload = function (){
         } 
 
         
-        var len = indexCartas.length;
-        console.log(indexCartas);
-        console.log(len);
-        var numCartas = [];
-        indexCartas.forEach(element => {
-            element += 1;
-            numCartas.push(element);
-        });
-        console.log(numCartas);
+        
+       
 
         
 
