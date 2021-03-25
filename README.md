@@ -3,8 +3,8 @@ Here you will find a random card generator. Just input how many cards you want t
 
 This program was developed using **HTML** and **JavaScript**. For styling **CSS** was implemented.
 
-### Vew:
-You can view this project in the following  link (https://lucydoja.github.io/Tictactoe-Gato/) and explore for yourself. 
+### View:
+You can view this project in the following  link (https://lucydoja.github.io/Card-Dealer/) and explore for yourself. 
 
 If you want to run the project on Gitpod your will have to run the following on your command line:
 ```
